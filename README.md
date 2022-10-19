@@ -1,0 +1,2 @@
+# PicGoImages
+For PicGo usage.
